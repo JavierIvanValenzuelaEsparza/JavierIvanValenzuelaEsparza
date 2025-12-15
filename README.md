@@ -18,7 +18,7 @@ Tijuana, Baja California — México
 
 ## About Me
 
-<img align="right" height="190" src="https://i.pinimg.com/originals/65/eb/8a/65eb8a6b4a8966bafd26d1dee21ed97f.gif"/>
+<img align="right" height="190" top="50" src="https://i.pinimg.com/originals/65/eb/8a/65eb8a6b4a8966bafd26d1dee21ed97f.gif"/>
 
 I'm a **Software Developer specialized in WMS & ERP systems**, focused on building **high-performance, scalable and maintainable software** for logistics, ecommerce and enterprise environments.
 
