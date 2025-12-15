@@ -80,9 +80,4 @@ I work daily with **real production systems**, solving complex business problems
 
 ---
 
-## Philosophy
-
-> *“Good code doesn’t just work — it communicates, scales and survives production.”*
-
----
 
