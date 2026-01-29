@@ -37,7 +37,7 @@ I work daily with **real production systems**, solving complex business problems
 ## Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,dotnet,golang,mongodb,postgresql,redis,docker,kubernetes,tailwind&perline=7"/>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,dotnet,golang,mongodb,postgresql,redis,docker,kubernetes,tailwind,nextjs&perline=7"/>
 </div>
 
 ---
