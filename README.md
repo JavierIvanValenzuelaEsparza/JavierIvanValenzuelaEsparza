@@ -8,15 +8,6 @@ Building software for **real-world operations**, scalable systems and complex bu
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+systems+that+solve+real+operational+problems.;WMS+%7C+ERP+%7C+Microservices+%7C+Scalable+Backends;Clean+Architecture+%7C+Performance+%7C+Maintainable+Code)](https://git.io/typing-svg)
 
-<br/>
-
-<a href="mailto:javiervalenzuela041219@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20me-58A6FF?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/javier-esparza-a66a78281/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
 </div>
 
 ---
