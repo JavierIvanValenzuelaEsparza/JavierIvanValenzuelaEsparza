@@ -10,10 +10,10 @@ Building software for **real-world operations**, scalable systems and complex bu
 
 <br/>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:javiervalenzuela041219@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20me-58A6FF?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/javier-esparza-a66a78281/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
