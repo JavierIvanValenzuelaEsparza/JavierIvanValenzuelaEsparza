@@ -1,140 +1,172 @@
  <div align="center">
 
-# Javier Ivan Valenzuela Esparza
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,50:0F172A,100:1D4ED8&text=Javier%20Ivan%20Valenzuela%20Esparza&fontColor=F8FAFC&fontSize=36&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%E2%80%A2%20Full Stack%20%E2%80%A2%20WMS&descAlignY=58&descSize=14&animation=fadeIn" width="100%" alt="Developer header"/>
 
-### Software Engineer · Backend Systems · WMS & Enterprise Architecture
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Building+systems+for+real-world+operations;Backend+%7C+Microservices+%7C+Enterprise+Software;From+complex+business+rules+to+clean+solutions;Engineering+better+systems%2C+one+feature+at+a+time)](https://git.io/typing-svg)
 
-**Engineering software that moves real-world operations forward.**
+<p>
+  <img src="https://img.shields.io/badge/FOCUS-Backend%20Engineering-0D1117?style=for-the-badge&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/DOMAIN-WMS%20%26%20ERP-0D1117?style=for-the-badge&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/MINDSET-Continuous%20Growth-0D1117?style=for-the-badge&labelColor=161B22" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Building+scalable+backend+systems;Designing+microservices+for+real+operations;Turning+complex+business+rules+into+software;WMS+%C2%B7+ERP+%C2%B7+APIs+%C2%B7+System+Architecture)](https://git.io/typing-svg)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=58A6FF&label=PROFILE+VIEWS)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-161B22?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-2563EB?style=flat-square&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
 
 </div>
 
 ---
 
-## `01` — About Me
+<table>
+<tr>
+<td width="60%" valign="middle">
 
-I'm a **Software Developer focused on backend engineering, warehouse management systems, and enterprise software**.
+## 👨‍💻 About Me
 
-I work on production systems where software directly supports business operations — from inventory management and warehouse workflows to integrations, data processing, and performance optimization.
+I'm a **Software Developer specializing in backend development, WMS, and enterprise systems**.
 
-My approach combines practical problem-solving with maintainable architecture. I care about not only making software work, but also understanding the business rules behind it, how it behaves under load, and how it can evolve safely.
+I build and improve software that supports real business operations: inventory, logistics, warehouse workflows, integrations, and complex business rules.
 
-- **Backend engineering:** APIs, services, integrations, and business logic.
-- **Enterprise systems:** WMS, ERP workflows, inventory, and logistics.
-- **Architecture:** Microservices, separation of concerns, and feature-oriented design.
-- **Performance:** Efficient data processing, resource usage, and reliable services.
-- **Continuous growth:** Exploring better engineering practices, tools, and technologies.
+My goal is to create systems that are **scalable, maintainable, efficient, and reliable** — with architecture that makes sense both technically and operationally.
 
-> Good software solves today's problem without making tomorrow's problem harder.
+- ⚡ Performance and resource optimization
+- 🧩 Microservices and business workflows
+- 📦 Warehouse management and traceability
+- 🏗️ Clean, modular, maintainable architecture
+- 🚀 Continuous learning and engineering growth
 
----
+</td>
+<td width="40%" align="center" valign="middle">
 
-## `02` — Technology Stack
+<img src="https://skillicons.dev/icons?i=nodejs,ts,js,python,go,mongodb,postgres,redis,docker,react&theme=dark&perline=5" alt="Technology stack"/>
 
-<div align="center">
+<br/>
 
-### Backend & Languages
+```text
+const mindset = {
+  build: "Reliable systems",
+  design: "Clean architecture",
+  focus: "Real-world impact",
+  improve: "Every day"
+};
+```
 
-<img src="https://skillicons.dev/icons?i=nodejs,ts,js,python,go,dotnet&theme=dark" alt="Backend technologies" />
+</td>
+</tr>
+</table>
 
-### Databases & Messaging
+## ⚡ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis&theme=dark" alt="Databases and caching" />
+<table>
+<tr>
+<td align="center" width="25%">
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,ts,js,python,go,dotnet&theme=dark&perline=3" alt="Backend technologies"/>
+
+</td>
+<td align="center" width="25%">
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis&theme=dark&perline=3" alt="Databases"/>
+
+</td>
+<td align="center" width="25%">
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" alt="Frontend technologies" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark&perline=3" alt="Frontend technologies"/>
 
-### Infrastructure & Developer Tools
+</td>
+<td align="center" width="25%">
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab,linux,aws&theme=dark" alt="Infrastructure and developer tools" />
+### Infrastructure
 
-</div>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab,linux,aws&theme=dark&perline=3" alt="Infrastructure technologies"/>
+
+</td>
+</tr>
+</table>
 
 <details>
-<summary><strong>⚙️ Engineering practices and concepts</strong></summary>
+<summary><b>🧠 Architecture & Engineering Practices</b> — click to expand</summary>
 
-<br />
+<br/>
 
-| Area | Focus |
+| Area | Technologies & Concepts |
 |---|---|
-| Architecture | Microservices, Clean Architecture, feature-based design |
-| Backend | REST APIs, service orchestration, asynchronous processing |
-| Data | Schema design, query efficiency, caching, data consistency |
-| Quality | Maintainability, separation of concerns, testing |
-| Operations | WMS workflows, inventory traceability, process automation |
-| Collaboration | Agile/Scrum, Git workflows, code reviews |
+| Backend | REST APIs, microservices, asynchronous processing |
+| Architecture | Clean Architecture, modular design, separation of concerns |
+| Data | MongoDB, PostgreSQL, Redis, data modeling |
+| Frontend | React, Next.js, TypeScript, Tailwind CSS |
+| Infrastructure | Docker, Kubernetes, Linux, CI/CD concepts |
+| Engineering | Performance optimization, testing, maintainability |
+| Domain | WMS, inventory, logistics, ERP workflows |
 
 </details>
 
 ---
 
-## `03` — What I Build
+## 🏗️ What I Build
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📦 Warehouse Management Systems
+<h3>📦 Warehouse Management</h3>
 
-Software supporting complex warehouse operations.
+<img src="https://img.shields.io/badge/INVENTORY-0D1117?style=flat-square&logo=databricks&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/LOGISTICS-0D1117?style=flat-square&logo=buffer&logoColor=58A6FF"/>
 
-- Inventory and stock movements
-- Receiving and fulfillment workflows
+- Receiving and fulfillment
+- Inventory movements and validations
 - Picking, packing, and shipping
-- Operational validations
-- Traceability and reporting
+- Product traceability
+- Operational reporting
 - High-volume data processing
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Backend & Microservices
+<h3>⚙️ Backend & Microservices</h3>
 
-Services designed around real business requirements.
+<img src="https://img.shields.io/badge/APIs-0D1117?style=flat-square&logo=fastapi&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/SERVICES-0D1117?style=flat-square&logo=nodedotjs&logoColor=58A6FF"/>
 
+- Service orchestration
 - REST APIs and integrations
-- Distributed business workflows
-- Service-to-service communication
-- Asynchronous processing
-- Database performance
+- Business logic and validations
+- Asynchronous workflows
 - Resource optimization
+- Maintainable backend services
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🏢 Enterprise Applications
+<h3>🏢 Enterprise Software</h3>
 
-Applications that connect technology with operations.
-
+- Business process automation
 - ERP-related workflows
-- Internal business platforms
-- Process automation
-- Reporting and data exports
+- Internal platforms
+- Data exports and reporting
 - Role-based functionality
 - Operational tools
 
 </td>
 <td width="50%" valign="top">
 
-### 🧩 Software Architecture
+<h3>🧩 Software Architecture</h3>
 
-Engineering for long-term maintainability.
-
-- Clear module boundaries
-- Feature-oriented organization
+- Feature-based organization
+- Clean module boundaries
 - Separation of concerns
-- Reusable business logic
-- Testable components
+- Testable business logic
+- Reusable components
 - Evolution-friendly design
 
 </td>
@@ -143,103 +175,216 @@ Engineering for long-term maintainability.
 
 ---
 
-## `04` — Featured Projects
+## 🚀 Featured Projects
 
-<div align="center">
+<p align="center">
+Explore selected projects and engineering experiments.
+</p>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_PROJECT_REPO&theme=github_dark&hide_border=true" alt="Featured project" />
-</a>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-</div>
+<h3>📦 SmartPipes Hydroponic WMS</h3>
 
-> Replace the example repository above with a real public project. Pin your strongest repositories directly on your GitHub profile as well.
+<img src="https://img.shields.io/badge/DOMAIN-Warehouse%20Management-0891B2?style=flat-square"/>
 
-### Areas I've explored
+Inventory and traceability workflows designed for hydroponic operations.
 
-- **SmartPipes Hydroponic WMS** — Warehouse-oriented software and operational workflows.
-- **Incident Management** — Structuring incident tracking and resolution processes.
-- **Live Chat** — Real-time communication and application architecture.
-- **Developer Portfolio** — Presenting projects, technical skills, and engineering work.
+**Focus areas**
+- Inventory management
+- Product tracking
+- Operational workflows
+
+`Next.js` `Node.js` `PostgreSQL`
+
+<p>
+<a href="https://github.com/YOUR_USERNAME/YOUR_SMARTPIPES_REPO">View repository →</a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>💬 Live Chat</h3>
+
+<img src="https://img.shields.io/badge/DOMAIN-Real--Time%20Communication-7C3AED?style=flat-square"/>
+
+A communication application exploring real-time interactions and modular application design.
+
+**Focus areas**
+- Messaging workflows
+- Real-time communication
+- Frontend/backend integration
+
+`React` `Node.js` `Socket.IO`
+
+<p>
+<a href="https://github.com/YOUR_USERNAME/YOUR_LIVECHAT_REPO">View repository →</a>
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🚨 Incident Management</h3>
+
+<img src="https://img.shields.io/badge/DOMAIN-Operational%20Tools-D97706?style=flat-square"/>
+
+An application concept for organizing incidents and supporting resolution workflows.
+
+**Focus areas**
+- Incident tracking
+- Status management
+- Operational visibility
+
+`React` `Node.js` `MongoDB`
+
+<p>
+<a href="https://github.com/YOUR_USERNAME/YOUR_INCIDENT_REPO">View repository →</a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🏗️ Enterprise & WMS Engineering</h3>
+
+<img src="https://img.shields.io/badge/DOMAIN-Enterprise%20Systems-16A34A?style=flat-square"/>
+
+Professional experience working on production warehouse software and business-critical workflows.
+
+**Focus areas**
+- Microservices
+- Inventory and fulfillment
+- System performance
+- Business process validations
+
+`React` `Node.js` `MongoDB`
+
+<p><i>Professional experience; internal source code is not included.</i></p>
+
+</td>
+</tr>
+</table>
 
 <details>
-<summary><strong>🚀 Explore my projects</strong></summary>
+<summary><b>🔎 What makes a project worth exploring?</b></summary>
 
-<br />
+<br/>
 
-For each public repository, I recommend documenting:
+I value projects that demonstrate more than a working interface:
 
-- **Problem:** What real-world need does it address?
-- **Solution:** How does the application solve it?
-- **Architecture:** Which technologies and design decisions were used?
-- **Engineering:** What trade-offs, validations, or performance challenges were addressed?
-- **Demo:** A screenshot, deployed application, or short walkthrough.
+- Clear architecture and module boundaries
+- Meaningful business logic and validation
+- Thoughtful database design
+- Error handling and edge cases
+- Tests and maintainable code
+- Documented setup and design decisions
 
 </details>
 
 ---
 
-## `05` — GitHub Analytics
+## 📊 GitHub Dashboard
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
+<a href="https://github.com/YOUR_USERNAME">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=JavierIvanValenzuelaEsparza&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=7C3AED&text_color=C9D1D9" alt="GitHub statistics"/>
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used languages" />
+<a href="https://github.com/YOUR_USERNAME">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierIvanValenzuelaEsparza&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used languages"/>
 </a>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph" width="100%" />
+<img src="https://streak-stats.demolab.com?user=JavierIvanValenzuelaEsparza&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=7C3AED&currStreakLabel=58A6FF" alt="Contribution streak" width="70%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JavierIvanValenzuelaEsparza&bg_color=0D1117&color=58A6FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution activity graph"/>
 
 </div>
 
----
-
-## `06` — Currently Exploring
-
-```text
-BACKEND ENGINEERING
-├── Microservices & API design
-├── Node.js · TypeScript
-├── Python & Go
-└── Performance optimization
-
-SOFTWARE ARCHITECTURE
-├── Clean Architecture
-├── Feature-oriented design
-├── Separation of concerns
-└── Maintainable business logic
-
-DATA & INFRASTRUCTURE
-├── MongoDB · PostgreSQL · Redis
-├── Docker & Kubernetes
-├── CI/CD workflows
-└── Scalable application delivery
-
-DOMAIN KNOWLEDGE
-├── Warehouse management
-├── Inventory & traceability
-├── Logistics operations
-└── Enterprise workflows
-```
+<sub>Statistics are generated by third-party services and may be unavailable temporarily. Language charts reflect repository code, not necessarily proficiency.</sub>
 
 ---
 
-## `07` — Let's Connect
+## 🧭 Current Engineering Roadmap
 
-I'm interested in connecting with developers, engineers, and teams building software that solves meaningful operational problems.
+<table>
+<tr>
+<td width="33%" valign="top">
 
-Whether it's backend engineering, enterprise systems, system architecture, or an interesting technical challenge, I'm always open to learning and exchanging ideas.
+### ⚙️ Backend
+
+- [x] Production APIs
+- [x] Business workflows
+- [x] Microservices experience
+- [ ] Deeper distributed systems knowledge
+
+</td>
+<td width="33%" valign="top">
+
+### 🏛️ Architecture
+
+- [x] Modular design
+- [x] Separation of concerns
+- [ ] Advanced system design
+- [ ] Distributed observability
+
+</td>
+<td width="33%" valign="top">
+
+### ☁️ Infrastructure
+
+- [x] Git-based workflows
+- [ ] Deeper Kubernetes knowledge
+- [ ] CI/CD automation
+- [ ] Cloud infrastructure practices
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>📚 Technologies I'm exploring</b></summary>
+
+<br/>
+
+- Python for automation and backend development
+- Go for efficient backend services
+- Docker and Kubernetes for containerized deployments
+- System design and distributed architectures
+- Better testing, observability, and delivery practices
+
+</details>
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
-**Build thoughtfully. Solve real problems. Keep improving.**
+### Have an interesting problem to solve?
 
-[![GitHub](https://img.shields.io/badge/Explore_my_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+I'm interested in backend engineering, enterprise software, logistics technology, and building systems that make real operations better.
 
-<sub>Designed with a focus on engineering, clarity, and continuous improvement.</sub>
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/Explore%20my%20repositories-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+</a>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<br/><br/>
+
+```text
+> Build thoughtfully.
+> Solve real problems.
+> Keep improving.
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:1D4ED8,50:0F172A,100:020617" width="100%" alt="Footer"/>
 
 </div>
