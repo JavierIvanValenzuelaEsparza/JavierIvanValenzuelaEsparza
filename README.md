@@ -1,6 +1,6 @@
 <!-- ───────────────────────────── HEADER ───────────────────────────── -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,55:0F172A,100:1D4ED8&text=Javier%20Valenzuela&fontColor=F8FAFC&fontSize=52&fontAlignY=36&desc=I%20optimize%20systems%20%C2%B7%20I%20build%20what%27s%20missing&descSize=17&descAlignY=58&animation=fadeIn&section=header"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617%2C55:0F172A%2C100:1D4ED8&text=Javier%20Valenzuela&fontColor=F8FAFC&fontSize=52&fontAlignY=36&desc=I%20optimize%20systems%20%C2%B7%20I%20build%20what%27s%20missing&descSize=17&descAlignY=58&animation=fadeIn&section=header"/>
   <img width="100%" alt="Javier Valenzuela — Software Developer" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:EFF6FF,55:BFDBFE,100:3B82F6&text=Javier%20Valenzuela&fontColor=0F172A&fontSize=52&fontAlignY=36&desc=I%20optimize%20systems%20%C2%B7%20I%20build%20what%27s%20missing&descSize=17&descAlignY=58&animation=fadeIn&section=header"/>
 </picture>
 
@@ -13,7 +13,7 @@
 <br/>
 
 <a href="https://dev-tymo.vercel.app"><img src="https://img.shields.io/badge/Portfolio-dev--tymo.vercel.app-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/javier-esparza-a66a78281/?isSelfProfile=true"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <img src="https://img.shields.io/badge/Tijuana%2C%20BC-Mexico-0F172A?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Tijuana, Mexico"/>
 
 </div>
@@ -30,7 +30,7 @@ mol $ call developer.whoami
 {
   name:       "Javier Iván Valenzuela Esparza",
   alias:      "tymo",
-  basedIn:    "Tijuana, BC 🇲🇽",
+  basedIn:    "Tijuana, BC",
   role:       "Software Developer",
   dailyStack: ["Node.js", "TypeScript", "Moleculer", "MongoDB", "React"],
   superpower: "finding the bottleneck nobody looked at",
@@ -47,21 +47,21 @@ And when a problem has no good solution yet, I **create one**: from microservice
 
 <!-- ───────────────────────────── APPROACH ───────────────────────────── -->
 
-## 🔁 How I attack a problem
+## How I attack a problem
 
 ```mermaid
 flowchart LR
-    A["📏 Measure"] --> B["🔍 Find the<br/>real bottleneck"]
-    B --> C["💡 Rethink<br/>the approach"]
-    C --> D["🚀 Ship it"]
-    D --> E["📊 Measure again"]
+    A["Measure"] --> B["Find the<br/>real bottleneck"]
+    B --> C["Rethink<br/>the approach"]
+    C --> D["Ship it"]
+    D --> E["Measure again"]
     E -.->|never done| B
 ```
 
 No guessing. Profile first, fix what actually hurts, prove it with numbers, repeat.
 
 <details>
-<summary><b>🛠️ My optimization toolkit</b></summary>
+<summary><b>My optimization toolkit</b></summary>
 
 <br/>
 
@@ -78,22 +78,22 @@ No guessing. Profile first, fix what actually hurts, prove it with numbers, repe
 
 <!-- ───────────────────────────── ARCHITECTURE ───────────────────────────── -->
 
-## 🧩 How I design systems
+## How I design systems
 
 Small services with one job each, talking through a broker and reacting to events instead of blocking each other.
 
 ```mermaid
 flowchart LR
-    UI["⚛️ React"] -->|REST| GW["🚪 API Gateway<br/>moleculer-web"]
-    GW --> BUS{{"📡 Service Broker"}}
-    BUS --> S1["🔐 auth"]
-    BUS --> S2["⚙️ core"]
-    BUS --> S3["⏱️ jobs"]
-    BUS --> S4["🔔 notifications"]
+    UI["React"] -->|REST| GW["API Gateway<br/>moleculer-web"]
+    GW --> BUS{{"Service Broker"}}
+    BUS --> S1["auth"]
+    BUS --> S2["core"]
+    BUS --> S3["jobs"]
+    BUS --> S4["notifications"]
     S2 -.->|event| S3
     S3 -.->|event| S4
-    S2 --> C[("⚡ Cache")]
-    S2 --> DB[("🍃 MongoDB")]
+    S2 --> C[("Cache")]
+    S2 --> DB[("MongoDB")]
     S3 --> DB
 ```
 
@@ -101,7 +101,7 @@ flowchart LR
 
 <!-- ───────────────────────────── STACK ───────────────────────────── -->
 
-## ⚡ Stack
+## Stack
 
 <table>
 <tr>
@@ -137,13 +137,13 @@ flowchart LR
 
 <!-- ───────────────────────────── PROJECTS ───────────────────────────── -->
 
-## 🚀 Things I've built
+## Things I've built
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ☕ BrewHub
+### BrewHub
 <sub><a href="https://github.com/BrewHub-Dev">BrewHub-Dev</a> · full product, three codebases</sub>
 
 A complete platform built from zero: a TypeScript engine on **Fastify + Bun** (Dockerized, with tests), a web client and a mobile app.
@@ -155,7 +155,7 @@ A complete platform built from zero: a TypeScript engine on **Fastify + Bun** (D
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ Production microservices
+### Production microservices
 <sub>Professional work · private code</sub>
 
 Building new services and optimizing existing ones on a **Moleculer + MongoDB** platform that runs every day in production.
@@ -167,7 +167,7 @@ Building new services and optimizing existing ones on a **Moleculer + MongoDB** 
 <tr>
 <td width="50%" valign="top">
 
-### ⚽ predictor-service
+### predictor-service
 <sub>Machine learning microservice</sub>
 
 Football match predictions combining a **Dixon–Coles Poisson** model with a **Gradient Boosting** ensemble, ranking results by expected value. Clean architecture, built to plug in new leagues.
@@ -177,7 +177,7 @@ Football match predictions combining a **Dixon–Coles Poisson** model with a **
 </td>
 <td width="50%" valign="top">
 
-### 🤖 AI Job Hunter
+### AI Job Hunter
 <sub>AI tooling</sub>
 
 A monorepo that discovers job postings, scores how well they match a profile and decides what to apply to, with separate discovery, matching and decision engines.
@@ -189,7 +189,7 @@ A monorepo that discovers job postings, scores how well they match a profile and
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 dev.tymo
+### dev.tymo
 <sub><a href="https://dev-tymo.vercel.app">dev-tymo.vercel.app</a></sub>
 
 My portfolio, organized by features with shared UI components.
@@ -200,7 +200,7 @@ My portfolio, organized by features with shared UI components.
 </td>
 <td width="50%" valign="top">
 
-### 📊 client-insights
+### client-insights
 <sub><a href="https://client-insights.vercel.app">client-insights.vercel.app</a></sub>
 
 Web app for exploring client data and insights.
@@ -216,7 +216,7 @@ Web app for exploring client data and insights.
 
 <!-- ───────────────────────────── PRINCIPLES ───────────────────────────── -->
 
-## 🧠 What I believe
+## What I believe
 
 | | |
 |:--|:--|
@@ -229,7 +229,7 @@ Web app for exploring client data and insights.
 
 <!-- ───────────────────────────── STATS ───────────────────────────── -->
 
-## 📈 Activity
+## Activity
 
 <div align="center">
 
@@ -251,11 +251,11 @@ Web app for exploring client data and insights.
 
 <!-- ───────────────────────────── NOW ───────────────────────────── -->
 
-## 🔭 Right now
+## Right now
 
-- ⚡ Squeezing more performance out of microservices in production
-- ☕ Building BrewHub end to end
-- 🌱 Going deeper on distributed systems, observability and Go
+- Squeezing more performance out of microservices in production
+- Building BrewHub end to end
+- Going deeper on distributed systems, observability and Go
 
 <br/>
 
@@ -263,15 +263,15 @@ Web app for exploring client data and insights.
 
 ```js
 mol $ emit developer.contact { reason: "a problem worth solving" }
->> Event 'developer.contact' emitted. I usually answer fast. ⚡
+>> Event 'developer.contact' emitted. I usually answer fast. 
 ```
 
 <a href="https://dev-tymo.vercel.app"><img src="https://img.shields.io/badge/See%20my%20portfolio-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/Let's%20talk%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/javier-esparza-a66a78281/?isSelfProfile=true"><img src="https://img.shields.io/badge/Let's%20talk%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:1D4ED8,45:0F172A,100:020617"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:1D4ED8%2C45:0F172A%2C100:020617"/>
   <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:3B82F6,45:BFDBFE,100:EFF6FF"/>
 </picture>
