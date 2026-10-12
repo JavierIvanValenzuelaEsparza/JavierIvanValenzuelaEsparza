@@ -1,407 +1,277 @@
- <div align="center">
+<!-- ───────────────────────────── HEADER ───────────────────────────── -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,55:0F172A,100:1D4ED8&text=Javier%20Valenzuela&fontColor=F8FAFC&fontSize=52&fontAlignY=36&desc=I%20optimize%20systems%20%C2%B7%20I%20build%20what%27s%20missing&descSize=17&descAlignY=58&animation=fadeIn&section=header"/>
+  <img width="100%" alt="Javier Valenzuela — Software Developer" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:EFF6FF,55:BFDBFE,100:3B82F6&text=Javier%20Valenzuela&fontColor=0F172A&fontSize=52&fontAlignY=36&desc=I%20optimize%20systems%20%C2%B7%20I%20build%20what%27s%20missing&descSize=17&descAlignY=58&animation=fadeIn&section=header"/>
+</picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,50:0F172A,100:1D4ED8&text=Javier%20Ivan%20Valenzuela%20Esparza&fontColor=F8FAFC&fontSize=34&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20BACKEND%20%7C%20WMS&descAlignY=58&descSize=14&animation=fadeIn&section=header" width="100%" alt="Developer header"/>
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Building+systems+for+real-world+operations;Backend+%7C+Microservices+%7C+Enterprise+Software;From+complex+business+rules+to+clean+solutions;Engineering+better+systems%2C+one+feature+at+a+time)](https://git.io/typing-svg)
+<a href="https://dev-tymo.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2600&pause=1000&color=3B82F6&center=true&vCenter=true&width=640&height=40&lines=Making+slow+things+fast;Turning+ideas+into+working+software;Microservices+with+Moleculer+%2B+Node.js;MongoDB+%C2%B7+React+%C2%B7+TypeScript" alt="Typing intro"/>
+</a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/FOCUS-Backend%20Engineering-0D1117?style=for-the-badge&labelColor=161B22" alt="Backend Engineering"/>
-<img src="https://img.shields.io/badge/DOMAIN-WMS%20%26%20ERP-0D1117?style=for-the-badge&labelColor=161B22" alt="WMS and ERP"/>
-<img src="https://img.shields.io/badge/MINDSET-Continuous%20Growth-0D1117?style=for-the-badge&labelColor=161B22" alt="Continuous Growth"/>
-
-<br/><br/>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views"/>
+<a href="https://dev-tymo.vercel.app"><img src="https://img.shields.io/badge/Portfolio-dev--tymo.vercel.app-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<img src="https://img.shields.io/badge/Tijuana%2C%20BC-Mexico-0F172A?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Tijuana, Mexico"/>
 
 </div>
 
----
+<br/>
 
-<table>
-<tr>
-<td width="58%" valign="middle">
+<!-- ───────────────────────────── WHOAMI ───────────────────────────── -->
 
-## 👨‍💻 About Me
+```js
+mol $ call developer.whoami
 
-I'm a **Software Developer focused on backend engineering, WMS, and enterprise systems**.
-
-I work with production software that supports real business operations, including inventory, logistics, warehouse workflows, integrations, and complex business rules.
-
-My goal is to build systems that are **scalable, maintainable, efficient, and reliable**, combining practical problem-solving with thoughtful software architecture.
-
-- ⚡ Performance and resource optimization
-- 🧩 Microservices and business workflows
-- 📦 Warehouse management and traceability
-- 🏗️ Clean, modular, maintainable architecture
-- 🚀 Continuous learning and engineering growth
-
-</td>
-<td width="42%" align="center" valign="middle">
-
-<img src="https://skillicons.dev/icons?i=nodejs,ts,js,python,go,mongodb,postgres,redis,docker,react&theme=dark&perline=5" alt="Technologies"/>
-
-<br/><br/>
-
-```javascript
-const developer = {
-  name: "Javier Valenzuela",
-  focus: ["Backend", "WMS", "Enterprise"],
-  mindset: "Build real solutions",
-  goal: "Keep improving"
-};
+>> Call 'developer.whoami'
+>> Response:
+{
+  name:       "Javier Iván Valenzuela Esparza",
+  alias:      "tymo",
+  basedIn:    "Tijuana, BC 🇲🇽",
+  role:       "Software Developer",
+  dailyStack: ["Node.js", "TypeScript", "Moleculer", "MongoDB", "React"],
+  superpower: "finding the bottleneck nobody looked at",
+  habit:      "if the tool doesn't exist, I build it"
+}
+>> Execution time: 3ms
 ```
 
-</td>
-</tr>
-</table>
+I'm a developer who gets bored with "it works". I like **taking a system apart, finding where it wastes time or resources, and rebuilding it leaner**: fewer queries, less memory, faster responses, simpler code.
 
----
-
-## ⚡ Technology Stack
-
-<table>
-<tr>
-<td width="25%" align="center" valign="top">
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,ts,js,python,go,dotnet&theme=dark&perline=3" alt="Backend technologies"/>
-
-</td>
-<td width="25%" align="center" valign="top">
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis&theme=dark&perline=3" alt="Databases"/>
-
-</td>
-<td width="25%" align="center" valign="top">
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark&perline=3" alt="Frontend technologies"/>
-
-</td>
-<td width="25%" align="center" valign="top">
-
-### Infrastructure
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab,linux,aws&theme=dark&perline=3" alt="Infrastructure"/>
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>🧠 Architecture & Engineering Practices</b> — expand to explore</summary>
+And when a problem has no good solution yet, I **create one**: from microservices in production to ML models, AI tooling and full products built from scratch.
 
 <br/>
 
-| Area | Focus |
-|:---|:---|
-| Backend | REST APIs, microservices, asynchronous processing |
-| Architecture | Clean Architecture, modular design, separation of concerns |
-| Data | MongoDB, PostgreSQL, Redis, data modeling |
-| Frontend | React, Next.js, TypeScript, Tailwind CSS |
-| Infrastructure | Docker, Kubernetes, Linux, CI/CD |
-| Engineering | Performance optimization, testing, maintainability |
-| Business domains | WMS, inventory, logistics, ERP workflows |
-
-</details>
-
----
-
-## 🏗️ What I Build
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>📦 Warehouse Management Systems</h3>
-
-<img src="https://img.shields.io/badge/INVENTORY-0D1117?style=flat-square&logo=databricks&logoColor=58A6FF" alt="Inventory"/>
-<img src="https://img.shields.io/badge/LOGISTICS-0D1117?style=flat-square&logo=buffer&logoColor=58A6FF" alt="Logistics"/>
-
-- Receiving and fulfillment
-- Inventory movements and validations
-- Picking, packing, and shipping
-- Product traceability
-- Operational reporting
-- High-volume data processing
-
-</td>
-<td width="50%" valign="top">
-
-<h3>⚙️ Backend & Microservices</h3>
-
-<img src="https://img.shields.io/badge/APIs-0D1117?style=flat-square&logo=fastapi&logoColor=58A6FF" alt="APIs"/>
-<img src="https://img.shields.io/badge/SERVICES-0D1117?style=flat-square&logo=nodedotjs&logoColor=58A6FF" alt="Services"/>
-
-- Service orchestration
-- REST APIs and integrations
-- Business logic and validations
-- Asynchronous workflows
-- Resource optimization
-- Maintainable backend services
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🏢 Enterprise Software</h3>
-
-- Business process automation
-- ERP-related workflows
-- Internal platforms
-- Data exports and reporting
-- Role-based functionality
-- Operational tools
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🧩 Software Architecture</h3>
-
-- Feature-based organization
-- Clear module boundaries
-- Separation of concerns
-- Testable business logic
-- Reusable components
-- Evolution-friendly design
-
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<sub>A selection of projects and engineering work.</sub>
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>📦 SmartPipes Hydroponic WMS</h3>
-
-<img src="https://img.shields.io/badge/WMS-0891B2?style=flat-square" alt="WMS project"/>
-
-Inventory and traceability workflows designed for hydroponic operations.
-
-**Focus**
-- Inventory management
-- Product tracking
-- Operational workflows
-
-`Next.js` `Node.js` `PostgreSQL`
-
-<br/>
-
-<a href="https://github.com/YOUR_USERNAME/YOUR_SMARTPIPES_REPO">↗ View repository</a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>💬 Live Chat</h3>
-
-<img src="https://img.shields.io/badge/REAL--TIME-7C3AED?style=flat-square" alt="Real-time project"/>
-
-A communication application exploring real-time interactions and modular application design.
-
-**Focus**
-- Messaging workflows
-- Real-time communication
-- Frontend/backend integration
-
-`React` `Node.js` `Socket.IO`
-
-<br/>
-
-<a href="https://github.com/YOUR_USERNAME/YOUR_LIVECHAT_REPO">↗ View repository</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🚨 Incident Management</h3>
-
-<img src="https://img.shields.io/badge/OPERATIONS-D97706?style=flat-square" alt="Incident management project"/>
-
-An application for organizing incidents and supporting resolution workflows.
-
-**Focus**
-- Incident tracking
-- Status management
-- Operational visibility
-
-`React` `Node.js` `MongoDB`
-
-<br/>
-
-<a href="https://github.com/YOUR_USERNAME/YOUR_INCIDENT_REPO">↗ View repository</a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🏗️ Enterprise & WMS Engineering</h3>
-
-<img src="https://img.shields.io/badge/PRODUCTION-16A34A?style=flat-square" alt="Professional experience"/>
-
-Professional experience building and improving warehouse software and business-critical workflows.
-
-**Focus**
-- Microservices
-- Inventory and fulfillment
-- System performance
-- Business validations
-
-`React` `Node.js` `MongoDB`
-
-<br/>
-
-<sub>Professional experience; private source code is not included.</sub>
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>🔎 My engineering principles</b> — expand to explore</summary>
-
-<br/>
-
-- Clear architecture and module boundaries
-- Meaningful business logic and validation
-- Thoughtful database design
-- Robust error handling
-- Tests and maintainable code
-- Documented setup and design decisions
-
-</details>
-
----
-
-## 📊 GitHub Dashboard
-
-<div align="center">
-
-<a href="https://github.com/JavierIvanValenzuelaEsparza">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=JavierIvanValenzuelaEsparza&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=7C3AED&text_color=C9D1D9" alt="GitHub statistics"/>
-</a>
-<a href="https://github.com/JavierIvanValenzuelaEsparza">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierIvanValenzuelaEsparza&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used languages"/>
-</a>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=JavierIvanValenzuelaEsparza&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=7C3AED&currStreakLabel=58A6FF" alt="GitHub contribution streak" width="80%"/>
-
-<br/><br/>
-<br/>
-
-<sub>Live statistics provided by external services. Availability and displayed metrics may vary.</sub>
-
-</div>
-
----
-
-## 🧭 Current Engineering Roadmap
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-<h3>⚙️ Backend</h3>
-
-- [x] Production APIs
-- [x] Business workflows
-- [x] Microservices experience
-- [ ] Deeper distributed systems knowledge
-
-</td>
-<td width="33%" valign="top">
-
-<h3>🏛️ Architecture</h3>
-
-- [x] Modular design
-- [x] Separation of concerns
-- [ ] Advanced system design
-- [ ] Distributed observability
-
-</td>
-<td width="33%" valign="top">
-
-<h3>☁️ Infrastructure</h3>
-
-- [x] Git-based workflows
-- [ ] Deeper Kubernetes knowledge
-- [ ] CI/CD automation
-- [ ] Cloud infrastructure practices
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>📚 Technologies I'm exploring</b></summary>
-
-<br/>
-
-- Python for automation and backend development
-- Go for efficient backend services
-- Docker and Kubernetes for containerized deployments
-- System design and distributed architectures
-- Testing, observability, and delivery practices
-
-</details>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-### Have an interesting problem to solve?
-
-I'm interested in backend engineering, enterprise software, logistics technology, and building systems that improve real-world operations.
-
-<br/>
-
-<a href="https://github.com/JavierIvanValenzuelaEsparza">
-<img src="https://img.shields.io/badge/Explore%20my%20repositories-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
-</a>
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
-</a>
-
-<br/><br/>
-
-```text
-> Build thoughtfully.
-> Solve real problems.
-> Keep improving.
+<!-- ───────────────────────────── APPROACH ───────────────────────────── -->
+
+## 🔁 How I attack a problem
+
+```mermaid
+flowchart LR
+    A["📏 Measure"] --> B["🔍 Find the<br/>real bottleneck"]
+    B --> C["💡 Rethink<br/>the approach"]
+    C --> D["🚀 Ship it"]
+    D --> E["📊 Measure again"]
+    E -.->|never done| B
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:1D4ED8,50:0F172A,100:020617" width="100%" alt="Footer"/>
+No guessing. Profile first, fix what actually hurts, prove it with numbers, repeat.
+
+<details>
+<summary><b>🛠️ My optimization toolkit</b></summary>
+
+<br/>
+
+| Layer | What I tune |
+|:--|:--|
+| **Database** | MongoDB indexes, aggregation pipelines, projections, avoiding N+1 calls |
+| **Services** | Moleculer actions & events, caching, async work off the hot path, smaller payloads |
+| **Frontend** | React re-renders, memoization, lazy loading, lighter bundles |
+| **Code** | Removing duplication, simpler abstractions, logic that's easy to test and change |
+
+</details>
+
+<br/>
+
+<!-- ───────────────────────────── ARCHITECTURE ───────────────────────────── -->
+
+## 🧩 How I design systems
+
+Small services with one job each, talking through a broker and reacting to events instead of blocking each other.
+
+```mermaid
+flowchart LR
+    UI["⚛️ React"] -->|REST| GW["🚪 API Gateway<br/>moleculer-web"]
+    GW --> BUS{{"📡 Service Broker"}}
+    BUS --> S1["🔐 auth"]
+    BUS --> S2["⚙️ core"]
+    BUS --> S3["⏱️ jobs"]
+    BUS --> S4["🔔 notifications"]
+    S2 -.->|event| S3
+    S3 -.->|event| S4
+    S2 --> C[("⚡ Cache")]
+    S2 --> DB[("🍃 MongoDB")]
+    S3 --> DB
+```
+
+<br/>
+
+<!-- ───────────────────────────── STACK ───────────────────────────── -->
+
+## ⚡ Stack
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+**Daily driver**
+
+<img src="https://skillicons.dev/icons?i=nodejs,ts,js,mongodb,react&theme=dark&perline=5" alt="Daily stack"/>
+
+<img src="https://img.shields.io/badge/Moleculer-microservices-3CAFCE?style=flat-square" alt="Moleculer"/>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+**Also ship with**
+
+<img src="https://skillicons.dev/icons?i=nextjs,py,fastapi,postgres,redis,docker,bun,tailwind,dotnet&theme=dark&perline=5" alt="Secondary stack"/>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+**Leveling up**
+
+<img src="https://skillicons.dev/icons?i=go,kubernetes,aws&theme=dark&perline=3" alt="Learning"/>
+
+<sub>distributed systems · observability · CI/CD</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ───────────────────────────── PROJECTS ───────────────────────────── -->
+
+## 🚀 Things I've built
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ☕ BrewHub
+<sub><a href="https://github.com/BrewHub-Dev">BrewHub-Dev</a> · full product, three codebases</sub>
+
+A complete platform built from zero: a TypeScript engine on **Fastify + Bun** (Dockerized, with tests), a web client and a mobile app.
+
+<a href="https://github.com/BrewHub-Dev/brewhub-engine"><img src="https://img.shields.io/badge/engine-API-0F172A?style=flat-square&logo=fastify" alt="engine"/></a>
+<a href="https://github.com/BrewHub-Dev/brewhub-app"><img src="https://img.shields.io/badge/app-web-0F172A?style=flat-square&logo=react" alt="app"/></a>
+<a href="https://github.com/BrewHub-Dev/brewhub-movil"><img src="https://img.shields.io/badge/movil-mobile-0F172A?style=flat-square&logo=android" alt="movil"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Production microservices
+<sub>Professional work · private code</sub>
+
+Building new services and optimizing existing ones on a **Moleculer + MongoDB** platform that runs every day in production.
+
+`Moleculer` `Node.js` `MongoDB` `React`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚽ predictor-service
+<sub>Machine learning microservice</sub>
+
+Football match predictions combining a **Dixon–Coles Poisson** model with a **Gradient Boosting** ensemble, ranking results by expected value. Clean architecture, built to plug in new leagues.
+
+`Python` `FastAPI` `scikit-learn`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI Job Hunter
+<sub>AI tooling</sub>
+
+A monorepo that discovers job postings, scores how well they match a profile and decides what to apply to, with separate discovery, matching and decision engines.
+
+`FastAPI` `Next.js` `Clean Architecture`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 dev.tymo
+<sub><a href="https://dev-tymo.vercel.app">dev-tymo.vercel.app</a></sub>
+
+My portfolio, organized by features with shared UI components.
+
+<a href="https://github.com/JavierIvanValenzuelaEsparza/dev.tymo"><img src="https://img.shields.io/badge/repo-dev.tymo-0F172A?style=flat-square&logo=github" alt="dev.tymo"/></a>
+`Next.js` `TypeScript` `Tailwind`
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 client-insights
+<sub><a href="https://client-insights.vercel.app">client-insights.vercel.app</a></sub>
+
+Web app for exploring client data and insights.
+
+<a href="https://github.com/JavierIvanValenzuelaEsparza/client-insights"><img src="https://img.shields.io/badge/repo-client--insights-0F172A?style=flat-square&logo=github" alt="client-insights"/></a>
+`Next.js` `TypeScript`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ───────────────────────────── PRINCIPLES ───────────────────────────── -->
+
+## 🧠 What I believe
+
+| | |
+|:--|:--|
+| **Measure before optimizing** | A guess is not a fix. Profiling tells me where the time actually goes. |
+| **The best code is the code you delete** | Simpler usually means faster, cheaper and easier to change. |
+| **If it doesn't exist, build it** | Some of my favorite projects started as "why isn't there a tool for this?" |
+| **Leave it better than I found it** | Every change should make the next one easier. |
+
+<br/>
+
+<!-- ───────────────────────────── STATS ───────────────────────────── -->
+
+## 📈 Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=JavierIvanValenzuelaEsparza&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=60A5FA&icon_color=3B82F6&text_color=C9D1D9&ring_color=3B82F6" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierIvanValenzuelaEsparza&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9" alt="Top languages"/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=JavierIvanValenzuelaEsparza&hide_border=true&background=0D1117&ring=3B82F6&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=C9D1D9&dates=8B949E&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="Contribution streak"/>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JavierIvanValenzuelaEsparza/JavierIvanValenzuelaEsparza/output/github-snake-dark.svg"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/JavierIvanValenzuelaEsparza/JavierIvanValenzuelaEsparza/output/github-snake.svg"/>
+</picture>
 
 </div>
+
+<br/>
+
+<!-- ───────────────────────────── NOW ───────────────────────────── -->
+
+## 🔭 Right now
+
+- ⚡ Squeezing more performance out of microservices in production
+- ☕ Building BrewHub end to end
+- 🌱 Going deeper on distributed systems, observability and Go
+
+<br/>
+
+<div align="center">
+
+```js
+mol $ emit developer.contact { reason: "a problem worth solving" }
+>> Event 'developer.contact' emitted. I usually answer fast. ⚡
+```
+
+<a href="https://dev-tymo.vercel.app"><img src="https://img.shields.io/badge/See%20my%20portfolio-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/Let's%20talk%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:1D4ED8,45:0F172A,100:020617"/>
+  <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:3B82F6,45:BFDBFE,100:EFF6FF"/>
+</picture>
